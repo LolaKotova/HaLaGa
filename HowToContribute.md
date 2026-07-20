@@ -24,3 +24,7 @@ If you like to look at your documentation,go to main directory, where the mkdocs
     mkdocs serve
 
 Open http://127.0.0.1:8000/ in your browser.
+
+Later if you like to publish the finished pages:
+
+    mkdocs gh-deploy
