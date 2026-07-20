@@ -1,0 +1,35 @@
+site_name: Klima-Check-Karten
+
+site_description: Dokumentation der Datengrundlagen und Methoden
+site_author: Juliane El Zobi
+theme:
+  name: material
+  palette:
+    primary: orange
+  logo: gerics.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - search.suggest
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+- Einleitung: index.md
+- Beobachtetes Klima:
+  - Überblick: beobachtetes-klima/index.md
+  - E-OBS Datensatz: beobachtetes-klima/eobs.md
+- Zukünftiges Klima:
+  - Überblick: zukuenftiges-klima/index.md
+  - EURO-CORDEX Datensatz: zukuenftiges-klima/euro-cordex.md
+  - Klimasimulationen: zukuenftiges-klima/klimasimulationen.md
+  - Definition robuster Änderungen: zukuenftiges-klima/robustheit.md
+- Klimagrößen:
+  - Überblick: klimagroessen/index.md
+  - Definition der Indizes: klimagroessen/indikatoren.md
+  - Gewichtetes Mittel: klimagroessen/gewichtetes-mittel.md
+- Mitwirkende: mitwirkende.md
