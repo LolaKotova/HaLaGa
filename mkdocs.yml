@@ -5,7 +5,7 @@ site_author: Juliane El Zobi
 theme:
   name: material
   palette:
-    primary: orange
+    primary: grey
   logo: gerics.png
   features:
     - navigation.tabs

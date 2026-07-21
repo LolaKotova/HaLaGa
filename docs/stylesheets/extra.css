@@ -1,18 +1,18 @@
 .md-header {
   height: 200px;
   padding: 1.5rem 0;
-  background-color: rgb(225, 223, 223);
-  color: darkgrey;
+  background-color: rgb(188,191,202);
+  color: rgb(93,112,133);
 }
 
 .md-header__title,
 .md-header__topic,
 .md-ellipsis {
-  color: darkgrey;
+  color: rgb(93,112,133);
 }
 
 .md-tabs {
-  background-color: orange;
+  background-color: rgb(240, 129, 0);
 }
 
 .md-tabs__link {

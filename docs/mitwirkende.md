@@ -1,6 +1,5 @@
 # Mitwirkende
 ## Autorinnen und Autoren
-Autorinnen und Autoren​
 
 Juliane El Zohbi, Fiona Köhnke, Johanna Thies, Alain Tamoffo, Lola Kotova​
 
@@ -15,7 +14,7 @@ Climate Service Center Germany (GERICS), eine Einrichtung der Helmholtz-Zentrum 
 Fischertwiete 1, 20095 Hamburg, www.climate-service-center.de | Disclaimer: https://bit.ly/3V8IEnf​
 
 ## Kontakt
-El Zohbi, Juliane <juliane.el_zohbi@hereon.de>
+Juliane El Zohbi <juliane.el_zohbi@hereon.de>
 
 oder
 
