@@ -9,7 +9,7 @@ Before starting to edit the documentation create an environment to install you s
         python --version
 
 If not, 
-Go to the official Python download page: https://www.python.org/downloads/macos/
+go to the official Python download page: https://www.python.org/downloads/macos/
 
 Download the latest macOS installer.
 
@@ -29,6 +29,7 @@ Open Terminal and verify:
 Exact macOS steps for Miniforge.
 
 Open Terminal and check your Mac type:
+    
     uname -m
 
 arm64 = Apple Silicon
@@ -65,6 +66,7 @@ Initialize your shell:
 Close Terminal completely and reopen it.
 
 Verify it worked:
+
     conda --version
 
 ## Create environment
@@ -107,6 +109,6 @@ In this case we changed the design a little bit, so we need
     
     stylesheets/extra.css
 
-All your individual directories and files nied to be stored in the directory 
+All your individual directories and files need to be stored in the directory 
     
     docs
