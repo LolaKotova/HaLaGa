@@ -6,7 +6,7 @@ Before starting to edit the documentation create an environment to install you s
 
 ### Check if you have python
         
-        python --version
+        python3 --version
 
 If not, 
 go to the official Python download page: https://www.python.org/downloads/macos/
