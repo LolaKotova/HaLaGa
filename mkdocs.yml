@@ -29,8 +29,9 @@ nav:
   - Klimasimulationen: zukuenftiges-klima/klimasimulationen.md
   - Definition robuster Änderungen: zukuenftiges-klima/robustheit.md
 - Klimagrößen:
-  - Überblick: klimagroessen/index.md
-  - Definition der Klimagrößen: klimagroessen/indicatoren.md
+  - Überblick: klimagroessen/Klimaszenarien.md
+  - Definition der Klimagrößen: klimagroessen/Klimaindicatoren.md
   - Gewichtetes Mittel: klimagroessen/gewichtetes-mittel.md
+  - Modelle: klimagroessen/Modelle.md
 - Mitwirkende: mitwirkende.md
 - Impressum: impressum.md
