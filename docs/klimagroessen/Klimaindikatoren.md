@@ -1,3 +1,8 @@
+<small><span style="color:blue;">Hinweise: </span>
+Die Werte für Jahresmittel und Jahreszeiten werden aus Tagesmittelwerten, bzw. Tagesmaximalwerten oder Tagesminimalwerten berechnet. 
+Saisonale Angaben beziehen sich auf das meteorologische Jahr, d.h. Angaben für den Frühling basieren auf allen Tagen in März, April und Mai. Der Sommer setzt sich aus allen Tagen der Monate Juni, Juni und August zusammen, der Herbst aus allen Tagen in September, Oktober und November. Angaben für den Winter basieren auf allen Tagen der Monate Januar und Februar sowie des Dezembers des Vorjahres. 
+Alle Kennwerte sowie ihre projizierten Änderungen sind auf die erste oder zweite Nachkommastelle gerundet.</small>
+
 
 | Klimagröße | Name | Definition |
 |------------|------|------------|
@@ -16,4 +21,4 @@
 | Niederschlag | Dauerregen | Anzahl der Ereignisse pro Saison, bei denen die Niederschlagsmenge (flüssig und fest) an drei aufeinanderfolgenden Tagen 60 mm erreicht oder überschreitet |
 | Einstrahlung | Sonnenscheindauer | Saisonale Sonnenscheindauer pro Tag |
 
-Die Werte für Jahresmittel und Jahreszeiten werden aus Tagesmittelwerten, bzw. Tagesmaximalwerten oder Tagesminimalwertenberechnet. Saisonale Angaben beziehen sich auf das meteorologische Jahr, d.h. Angaben für den Frühling basieren auf allen Tagenin März, April und Mai. Der Sommer setzt sich aus allen Tagen der Monate Juni, Juni und August zusammen, der Herbst aus allenTagen in September, Oktober und November. Angaben für den Winter basieren auf allen Tagen der Monate Januar und Februarsowie des Dezembers des Vorjahres. Alle Kennwerte sowie ihre projizierten Änderungen sind auf die erste oder zweiteNachkommastelle gerundet.
+
