@@ -1,0 +1,1 @@
+Grundlage für diesen Ausblick sind die Ergebnisse von 124 regionalen Klimamodellsimulationen der EURO-CORDEX-Initiative. Dargestellt werden 16 verschiedene Kennwerte des Klimawandels, die für unterschiedliche Handlungsfelder von Bedeutung sind. Die Ergebnisse werden durch eine fachliche Einschätzung der Robustheit der projizierten Veränderungen ergänzt.
