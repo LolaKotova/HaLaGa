@@ -1,6 +1,6 @@
 # E-OBS Datensatz
 
-E-OBS ([European Observational Gridded Dataset](https://www.ecad.eu/download/ensembles/download.php)) ist ein täglicher, rasterbasierter Beobachtungsdatensatz für Europa. Der Datensatz wird aus Messungen meteorologischer Stationen des European Climate Assessment & Dataset (ECA&D) erstellt und im Rahmen des Copernicus Climate Change Service (C3S) gepflegt.
+E-OBS ([European Observational Gridded Dataset](https://surfobs.climate.copernicus.eu/dataaccess/access_eobs.php)) ist ein täglicher, rasterbasierter Beobachtungsdatensatz für Europa. Der Datensatz wird aus Messungen meteorologischer Stationen des European Climate Assessment & Dataset (ECA&D) erstellt und im Rahmen des Copernicus Climate Change Service (C3S) gepflegt.
 
 E-OBS stellt konsistente Klimadaten auf regelmäßigen Gittern mit räumlichen Auflösungen von 0,1° und 0,25° bereit und deckt große Teile Europas ab. Für Temperatur, Niederschlag, Luftdruck und Globalstrahlung reicht die Zeitreihe bis zum 1. Januar 1950 zurück; Windgeschwindigkeiten sind ab 1980 verfügbar.
 

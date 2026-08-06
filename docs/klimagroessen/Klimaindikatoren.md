@@ -1,7 +1,15 @@
 <small><span style="color:blue;">Hinweise: </span>
 Die Werte für Jahresmittel und Jahreszeiten werden aus Tagesmittelwerten, bzw. Tagesmaximalwerten oder Tagesminimalwerten berechnet. 
 Saisonale Angaben beziehen sich auf das meteorologische Jahr, d.h. Angaben für den Frühling basieren auf allen Tagen in März, April und Mai. Der Sommer setzt sich aus allen Tagen der Monate Juni, Juni und August zusammen, der Herbst aus allen Tagen in September, Oktober und November. Angaben für den Winter basieren auf allen Tagen der Monate Januar und Februar sowie des Dezembers des Vorjahres. 
-Alle Kennwerte sowie ihre projizierten Änderungen sind auf die erste oder zweite Nachkommastelle gerundet.</small>
+<br><br>
+Alle Kennwerte sowie ihre projizierten Änderungen sind auf die erste oder zweite Nachkommastelle gerundet.
+<br><br>
+Die Berechnung der Mehrzahl der Indizes basiert auf den Definitionen der xclim python [Bibliothek für Klimaservices](https://github.com/Ouranosinc/xclim)*.
+<br>
+* Bourgault, P., et al. (2023). xclim: xarray-based climate data analytics. Journal of Open Source Software, 8(85), 5415.
+https://doi.org/10.21105/joss.05415.
+</small>
+
 
 
 | Klimagröße | Name | Definition |
