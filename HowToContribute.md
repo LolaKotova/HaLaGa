@@ -61,7 +61,7 @@ When it finishes, activate Conda:
 
 Initialize your shell:
 
-    conda init zsh
+    conda init
 
 Close Terminal completely and reopen it.
 
