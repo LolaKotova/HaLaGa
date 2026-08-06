@@ -1,0 +1,2 @@
+# Einleitung
+Die Klima‑Check‑Karten bieten eine kompakte und übersichtliche Darstellung von Klimaänderungen in Hamburg – sowohl für die Vergangenheit bis heute als auch für ein mögliches Zukunftszenario. Sie ermöglichen eine gezielte Bewertung der klimawandelbedingten Risiken für die Landwirtschaft und den Gartenbau in Hamburg. Je nach Jahreszeit werden relevante temperatur- und niederschlagsbezogene Klimakenngrößen individuell zusammengestellt.
