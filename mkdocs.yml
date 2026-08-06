@@ -26,12 +26,12 @@ nav:
 - Zukünftiges Klima:
   - Überblick: zukuenftiges-klima/index.md
   - EURO-CORDEX Datensatz: zukuenftiges-klima/euro-cordex.md
-  - Klimasimulationen: zukuenftiges-klima/klimasimulationen.md
-  - Definition robuster Änderungen: zukuenftiges-klima/robustheit.md
+  - Erläuterungen zu Klimaprojektionen: zukuenftiges-klima/Klimaszenarien.md 
+  - Erläuterungen zu Robustheit: zukuenftiges-klima/robustheit.md
 - Klimagrößen:
-  - Überblick: klimagroessen/Klimaszenarien.md
-  - Definition der Klimagrößen: klimagroessen/Klimaindicatoren.md
-  - Gewichtetes Mittel: klimagroessen/gewichtetes-mittel.md
-  - Modelle: klimagroessen/Modelle.md
+  - Überblick: klimagroessen/Allgemein.md
+  - Definition der Klimagrößen: klimagroessen/Klimaindikatoren.md
+  - Methode der Flächenmittelung: klimagroessen/Flaechenmittelung.md
+  - Datengrundlage: klimagroessen/Modelle.md
 - Mitwirkende: mitwirkende.md
 - Impressum: impressum.md
