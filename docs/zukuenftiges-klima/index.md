@@ -2,7 +2,7 @@
 
 Die Klima‑Check‑Karten bieten eine kompakte und übersichtliche Darstellung von Klimaänderungen in Hamburg – sowohl für die Vergangenheit bis heute als auch für ein mögliches Zukunftszenario. 
 <br><br>
-Die projizierten Klimaänderungen basieren auf [regionalen Klimaprojektionen](Klimammodelle.md), die im Rahmen der [EURO-CORDEX-Initiative](euro-cordex.md) mit regionalen Klimamodellen angetrieben von Globalmodellsimulationen des "Coupled Model Intercomparison Projects Phase 5" [CMIP5](https://wcrp-cmip.org/cmip-phases/cmip5/) erstellt wurden.
+Die projizierten Klimaänderungen basieren auf [regionalen Klimaprojektionen](Hintergrund.md), die im Rahmen der [EURO-CORDEX-Initiative](euro-cordex.md) mit regionalen Klimamodellen angetrieben von Globalmodellsimulationen des "Coupled Model Intercomparison Projects Phase 5" [CMIP5](https://wcrp-cmip.org/cmip-phases/cmip5/) erstellt wurden.
 <br><br>
 Die Klimaprojektionen basieren auf den „Representative Concentration Pathways" [RCPs](Klimaszenarien.md). RCP8.5 repräsentiert ein
 Szenario mit hohen Emissionen, RCP4.5 ein Szenario mit mittleren Emissionen und RCP2.6 ein Szenario mit niedrigen Emissionen. 

@@ -1,4 +1,3 @@
-## Hintergrund zur Klimamodellierung
 
  Quelle: www.dwd.de
 
