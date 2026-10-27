@@ -2,5 +2,6 @@ Die kreisfreie Stadt Hamburg gehört mit einer Fläche von ca. 753 km² zu den R
 
 ![Bild](Hamburg.png)
 
-## Zitierhinweis:
+*Zitierhinweis*
+<br>
 <small>*Pfeifer, S., Bülow, K., & Rechid, D. (2026). GERICS Klimaausblick Hamburg Version 1.1, Climate Service Center Germany (GERICS), eine Einrichtung der Helmholtz-Zentrum Hereon GmbH.10.5281/zenodo.21475095.</small>
