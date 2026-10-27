@@ -1,5 +1,7 @@
 # Einleitung
 
+<span style="color: #0660b9;"><strong>Hinweis:</strong> Dieses Dokument wird fortlaufend aktualisiert, um den aktuellen Stand der Informationen und Entwicklungen widerzuspiegeln.</span>
+<br><br>
 Die Klima-Check-Karten bieten eine kompakte und übersichtliche Darstellung der Klimaentwicklung in Hamburg von der Vergangenheit bis heute sowie für ein mögliches zukünftiges Klimaszenario.
 <br><br>
 Sie ermöglichen eine fundierte Bewertung klimawandelbedingter Veränderungen und ihrer potenziellen Auswirkungen, insbesondere für die Landwirtschaft und den Gartenbau. Die Analysen basieren auf den GERICS Klimaausblicken [* siehe unten] und stellen Informationen für die regionale Klimaanpassung bereit.
