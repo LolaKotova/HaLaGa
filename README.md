@@ -1,5 +1,7 @@
 <img src="figure/fittosize_730_0_6fc16443e5407e741d0acad797f0b34d_halaga_logo.png" alt="HaLaGa Logo" width="25%">
 
+Die Dokumentation findest Du [hier](https://climate-service-center.github.io/HaLaGa/)
+
 Der Klimawandel ist auch in Hamburg längst Realität: Hitze, Starkregen und andere Wetterextreme nehmen zu. Damit steigen die witterungsbedingten Risiken für landwirtschaftliche und gartenbauliche Betriebe. Ohne geeignete Vorsorgemaßnahmen sind die Betriebe diesen Risiken zunehmend ausgesetzt. Wie können sich die Betriebe besser darauf vorbereiten?
 
 Bereits im Vorgängerprojekt [„HaLaGa“](https://www.gerics.de/science/projects/detail/117894/index.php.de) widmete sich das GERICS der Aufgabe, landwirtschaftliche und gartenbauliche Betriebe in ihrem Risikomanagement angesichts zunehmender witterungsbedingter Risiken zu unterstützen. Das Projekt wurde von der Behörde für Umwelt, Klima, Energie und Agrarwirtschaft (BUKEA) für die Laufzeit von November 2024 bis Dezember 2025 bewilligt.
