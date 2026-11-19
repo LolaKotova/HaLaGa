@@ -6,7 +6,7 @@ theme:
   name: material
   palette:
     primary: grey
-  logo: gerics.png
+  logo: HaLaGa.pdf
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -26,9 +26,8 @@ nav:
 - Zukünftiges Klima:
   - Überblick: zukuenftiges-klima/index.md
   - EURO-CORDEX Datensatz: zukuenftiges-klima/euro-cordex.md
-  - Hintergrund zur Klimamodellierung: zukuenftiges-klima/Hintergrund.md
-  - Erläuterungen zu Klimaprojektionen: zukuenftiges-klima/Klimaszenarien.md 
-  - Erläuterungen zu Robustheit: zukuenftiges-klima/robustheit.md
+  - Erläuterung zum Szenario: zukuenftiges-klima/Klimaszenarien.md 
+  - Aussagekraft der Ergebnisse: zukuenftiges-klima/robustheit.md
 - Klimagrößen:
   - Überblick: klimagroessen/Allgemein.md
   - Definition der Klimagrößen: klimagroessen/Klimaindikatoren1.md

@@ -1,4 +1,4 @@
-# Klimaprojektionen und Szenarien 
+# <strong>Szenario</strong>
 
 ![Bild](RCP85.jpg)
 
@@ -8,6 +8,7 @@ Mit Klimamodellen können Projektionen für das zukünftige Klima berechnet we
 
 Im Rahmen des fünften [IPCC-Sachstandsberichts](https://www.de-ipcc.de/250.php/) wurden die „Representative Concentration Pathways“ (RCPs) als Szenarien verwendet, sie beginnen im Jahr 2006. Den Zeitraum davor beschreiben wir als historischen Zeitraum mit beobachteten Treibhausgaskonzentrationen. 
 
-Im Rahmen von HaLaGa wird das Szenario RCP8.5 betrachtet. Dieses Szenario beschreibt einen anhaltenden Anstieg der Treibhausgasemissionen im Verlauf des 21. Jahrhunderts mit einer Stabilisierung auf einem sehr hohen Niveau gegen Ende des Jahrhunderts.
+Im Rahmen von HaLaGa wird das Szenario RCP8.5 betrachtet. Dieses Szenario beschreibt einen anhaltenden Anstieg der Treibhausgasemissionen im Verlauf des 21. Jahrhunderts mit einer Stabilisierung auf einem sehr hohen Niveau gegen Ende des Jahrhunderts. Neuere Studien halten diese Entwicklung  aufgrund aktueller Klimaschutzmaßnahmen jedoch für zunehmend unrealistisch. Trotzdem bleiben solche Modellrechnungen  wichtig, um mögliche Extremfolgen besser zu verstehen, Risiken  abzuschätzen und die Wirkung von Emissionsminderungen einordnen zu können. Denn eines ist klar: Nur durch ambitionierten 
+Klimaschutz lassen sich die zukünftigen Auswirkungen wirksam begrenzen.
 
 <small>**Van Vuuren, D. P., et al. (2026). The Scenario Model Intercomparison Project for CMIP7. Geoscientific Model Development, 19, 2627–2656. DOI: 10.5194/gmd-19-2627-2026.</small>

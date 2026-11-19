@@ -1,7 +1,4 @@
-# Beobachtetes Klima
-Das Klima der Vergangenheit sowie bereits beobachtete klimatische Veränderungen werden auf Grundlage von Beobachtungsdaten analysiert. Hierfür werden Datensätze des europäischen Klimadatensatzes [E-OBS](eobs.md) verwendet. E-OBS stellt räumlich interpolierte Beobachtungen von Temperatur und Niederschlag in einer räumlichen Auflösung von etwa <span style="color:red;">25 km</span> bereit und ermöglicht damit die Untersuchung historischer Klimaentwicklungen sowie die Identifikation bereits eingetretener Klimaänderungen in Hamburg.
+# <strong>Beobachtetes Klima</strong>
+Die Auswertung zum beobachteten Klima basiert auf den Jahren 1994–2023 und wird mit dem Zeitraum 1950–1979 verglichen. Grundlage sind E‑OBS‑Daten – ein europaweiter Klimadatensatz, der auf Messungen von Wetterstationen basiert und flächendeckend für Analysen aufbereitet wird.
 
-## Verfügbare Datengrundlage:
-
-[Datenzugang](https://surfobs.climate.copernicus.eu/dataaccess/access_eobs.php)
  

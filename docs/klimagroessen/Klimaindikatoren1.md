@@ -1,21 +1,18 @@
-# Klimaindikatoren
+# Klimagrößen
 
 <small><span style="color:blue;">Hinweise: </span>
 Die Werte für Jahresmittel und Jahreszeiten werden aus Tagesmittelwerten, bzw. Tagesmaximalwerten oder Tagesminimalwerten berechnet. 
 
-Alle Indizes werden auf **monatlicher, saisonaler und jährlicher Basis** bereitgestellt. Bei Zählindizes (z. B. SU30, FD, RR1 oder R20mm) entspricht der Wert der Anzahl der Ereignisse innerhalb des jeweiligen Zeitraums. Bei Mittelwertindizes (z. B. TG und RRm) entspricht der Wert dem Mittelwert über den jeweiligen Zeitraum.
+Saisonale Angaben beziehen sich auf das meteorologische Jahr, d.h. Angaben für den Frühling basieren auf allen Tagen in März, April und Mai. Der Sommer setzt sich aus allen Tagen der Monate Juni, Juni und August zusammen, der Herbst aus allen Tagen in September, Oktober und November. Angaben für den Winter basieren auf allen Tagen der Monate Januar und Februar sowie des Dezembers des Vorjahres. 
 
-Saisonale Angaben beziehen sich auf das meteorologische Jahr, d.h. Angaben für den Frühling basieren auf allen Tagen in März, April und Mai. Der Sommer setzt sich aus allen Tagen der Monate Juni, Juni und August zusammen, der Herbst aus allen Tagen in September, Oktober und November. Angaben für den Winter basieren auf allen Tagen der Monate Januar und Februar sowie des Dezembers des Vorjahres. 
-<br><br>
-Die Berechnung der Mehrzahl der Indizes basiert auf den Definitionen der xclim python [Bibliothek für Klimaservices](https://github.com/Ouranosinc/xclim)*.
+Alle Klimagrößen  wurden auf monatlicher, saisonaler und jährlicher Basis bereitgestellt. Bei Zählindizes (z. B. SU30, FD, RR1 oder R20mm) entspricht der Wert der Anzahl der Ereignisse innerhalb des jeweiligen Zeitraums. Bei Mittelwertindizes (z. B. TG und RRm) entspricht der Wert dem Mittelwert über den jeweiligen Zeitraum. Die Berechnung der Mehrzahl der Kilimagrößen basiert  auf den Definitionen der xclim python [Bibliothek für Klimaservices](https://github.com/Ouranosinc/xclim)*.
 <br>
 * Bourgault, P., et al. (2023). xclim: xarray-based climate data analytics. Journal of Open Source Software, 8(85), 5415.
 https://doi.org/10.21105/joss.05415.
 </small>
 
 
-
-| Index ID | Index Name | Definition |
+| Index ID |Index Name | Definition |
 |-----------|------------|------------|
 | **TG (tas)** | Bodennahe Lufttemperatur (2 m über Grund) | Bodennahe Lufttemperatur (2 m über Grund). |
 **SU30 (tasmax)** | Heiße Tage | Anzahl an Tagen pro Jahr bzw. pro Jahreszeit mit einer Tagesmaximumtemperatur von mehr als 30 °C. |

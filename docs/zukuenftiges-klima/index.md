@@ -1,13 +1,7 @@
-Die Klima‑Check‑Karten bieten eine kompakte und übersichtliche Darstellung von Klimaänderungen in Hamburg – sowohl für die Vergangenheit bis heute als auch für ein mögliches Zukunftszenario. 
+# <strong>Überblick</strong>
+Die zukünftigen Entwicklungen des Klimas werden anhand von EURO‑CORDEX‑Klimasimulationen ausgewertet. Dabei werden die Klimasimulationen für die Jahre 2036–2065 mit dem Zeitraum 1971–2000 verglichen. Die zugrunde liegenden Klimasimulationen basieren auf einem Szenario ohne wirksame Klimaschutzmaßnahmen.
+Das Szenario beschreibt einen starken Anstieg der Treibhausgasemissionen bis zu einem sehr hohen Niveau gegen Ende des Jahrhunderts. Neuere Studien halten diese Entwicklung aufgrund aktueller Klimaschutzmaßnahmen jedoch für zunehmend unrealistisch. 
 <br><br>
-Die projizierten Klimaänderungen basieren auf [regionalen Klimaprojektionen](Hintergrund.md), die im Rahmen der [EURO-CORDEX-Initiative](euro-cordex.md) mit regionalen Klimamodellen angetrieben von Globalmodellsimulationen des "Coupled Model Intercomparison Projects Phase 5" [CMIP5](https://wcrp-cmip.org/cmip-phases/cmip5/) erstellt wurden.
-<br><br>
-Die Klimaprojektionen basieren auf den „Representative Concentration Pathways" [RCPs](Klimaszenarien.md). RCP8.5 repräsentiert ein
-Szenario mit hohen Emissionen, RCP4.5 ein Szenario mit mittleren Emissionen und RCP2.6 ein Szenario mit niedrigen Emissionen. 
-<br><br>
-124 Klimaprojektionen wurden bis Februar 2024 aus dem ESGF-Datenportal über den [Datenknoten am Deutschen Klimarechenzentrum](https://esgf-data.dkrz.de) heruntergeladen und analysiert. Davon beziehen sich 71 Simulationen auf das Szenario RCP8.5, 24 Simulationen
-auf das Szenario RCP4.5, sowie 29 auf das Szenario RCP2.6. Für alle drei Szenarien wurden die Simulationen mit elf verschiedenen
-regionalen Klimamodellen (RCMs) erstellt. 
-<br><br>
-Die Antriebsdaten für diese elf RCMs kamen von zehn verschiedenen Simulationen verschiedener globaler Klimamodelle (GCMs). Eine Übersicht über die verwendeten regionalen Klimamodelle sowie die jeweiligen globalen Antriebsdaten ist in der folgenden [Tabelle](RCP85_Editable.pdf) dargestellt.
+Trotzdem bleiben solche Modellrechnungen wichtig, um mögliche Extremfolgen besser zu verstehen, Risiken abzuschätzen und die Wirkung von Emissionsminderungen einordnen zu können. Denn eines ist klar: Nur durch ambitionierten Klimaschutz lassen sich die zukünftigen Auswirkungen wirksam begrenzen.
+
 
