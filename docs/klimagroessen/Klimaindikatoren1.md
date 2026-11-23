@@ -1,8 +1,5 @@
 # Klimagrößen
 
-<small><span style="color:blue;">Hinweise: </span>
-Die Werte für Jahresmittel und Jahreszeiten werden aus Tagesmittelwerten, bzw. Tagesmaximalwerten oder Tagesminimalwerten berechnet. 
-
 Saisonale Angaben beziehen sich auf das meteorologische Jahr, d.h. Angaben für den Frühling basieren auf allen Tagen in März, April und Mai. Der Sommer setzt sich aus allen Tagen der Monate Juni, Juni und August zusammen, der Herbst aus allen Tagen in September, Oktober und November. Angaben für den Winter basieren auf allen Tagen der Monate Januar und Februar sowie des Dezembers des Vorjahres. 
 
 Alle Klimagrößen  wurden auf monatlicher, saisonaler und jährlicher Basis bereitgestellt. Bei Zählindizes (z. B. SU30, FD, RR1 oder R20mm) entspricht der Wert der Anzahl der Ereignisse innerhalb des jeweiligen Zeitraums. Bei Mittelwertindizes (z. B. TG und RRm) entspricht der Wert dem Mittelwert über den jeweiligen Zeitraum. Die Berechnung der Mehrzahl der Kilimagrößen basiert  auf den Definitionen der xclim python [Bibliothek für Klimaservices](https://github.com/Ouranosinc/xclim)*.
@@ -11,24 +8,22 @@ Alle Klimagrößen  wurden auf monatlicher, saisonaler und jährlicher Basis ber
 https://doi.org/10.21105/joss.05415.
 </small>
 
-
-| Index ID |Index Name | Definition |
-|-----------|------------|------------|
-| **TG (tas)** | Bodennahe Lufttemperatur (2 m über Grund) | Bodennahe Lufttemperatur (2 m über Grund). |
-**SU30 (tasmax)** | Heiße Tage | Anzahl an Tagen pro Jahr bzw. pro Jahreszeit mit einer Tagesmaximumtemperatur von mehr als 30 °C. |
-| **SU35 (tasmax)** | Sehr heiße Tage | Anzahl an Tagen pro Jahr bzw. pro Jahreszeit mit einer Tagesmaximumtemperatur von mehr als 35 °C. |
-| **TR (tasmin)** | Tropische Nächte | Anzahl an Tagen pro Jahr mit einer Minimumtemperatur von mehr als 20 °C. |
-| **FD (tasmin)** | Frosttage | Anzahl der Tage pro Jahr bzw. pro Jahreszeit mit einer Tagesmaximumtemperatur geringer als 0 °C. |
-| **ID (tasmax)** | Eistage | Anzahl der Tage mit einer täglichen Höchsttemperatur (tasmax) unter 0 °C. |
-| **RRm (pr)** | Niederschlag |  Die Niederschlagswerte werden als mittlere jährliche bzw. saisonale Tagessummen des Niederschlags angegeben. Sie beinhalten sowohl flüssigen als auch festen Niederschlag. |
-| **RR1 (pr)** | Tage mit messbarem Niederschlag | Anzahl der Tage mit einer Niederschlagsmenge von mindestens 1 mm/Tag. |
-| **DD (pr)** | Trockentage | Anzahl der Tage mit einer Niederschlagsmenge von weniger als 1 mm/Tag. |
-| **DSf (pr)** | Trockenperioden | Anzahl zusammenhängender Trockenperioden mit weniger als 1 mm Niederschlag pro Tag. |
-| **R20mm (pr)** | Starkniederschlagstage | Anzahl der Tage pro Jahr bzw. pro Jahreszeit, an denen die Niederschlagsmenge von 20 mm erreicht oder überschritten wird. |
-| **CRE (pr)** | Andauerndes Niederschlagsereignis | Ereignis, bei dem die akkumulierte Niederschlagssumme innerhalb eines gleitenden Fensters von mindestens drei aufeinanderfolgenden Tagen 50 mm oder mehr erreicht. |
-
-<span style="color:orange;"> Kombinierte Extremereignisse </span>
-
-| Index ID | Index Name | Definition |
-|-----------|------------|------------|
-| **CHDD** | Kombinierte heiße und trockene Tage | Anzahl der Tage, an denen die Höchsttemperatur mindestens 30 °C erreicht und gleichzeitig der Tagesniederschlag unter dem 25. Perzentil der Referenzperiode 1971 bis 2000 liegt. |
+| Name der Klimagröße | Definition | Index Name |
+|---------------------|------------|------------|
+|Dauerregen | Anzahl der Ereignisse mit ≥ 60 mm Niederschlag innerhalb von drei aufeinanderfolgenden Tagen | N6 |
+|Eistage | Anzahl der Tage mit Tagesmaximumtemperatur < 0 °C | T3 |
+|Frosttage | Anzahl der Tage mit Tagesminimumtemperatur < 0 °C | T2 |
+|Hagel | Häufigkeit von Hagelereignissen pro Jahr | H1 |
+|Heiße Tage | Anzahl der Tage mit Tagesmaximumtemperatur > 30 °C | T2 |
+|Heiße Trockentage | Anzahl der Tage mit Tagesmaximumtemperatur > 30 °C und Niederschlag unter dem definierten Perzentil | TN1 |
+|Nasse Tage | Anzahl der Tage mit Niederschlag > 1 mm | N2 |
+|Saisonale Temperatur | Bodennahe Lufttemperatur in °C | T1 |
+|Saisonaler Niederschlag | Mittlere saisonale Tagessumme des Niederschlags (flüssig und fest) | N1 |
+|Sonnenscheindauer | Saisonale Sonnenscheindauer pro Tag | E1 |
+|Spätfrost im April, Mai und Juni | Anzahl der Tage von April bis Juni mit Tagesminimumtemperatur < 0 °C | T3 |
+|Spätfrost im März | Anzahl der Tage im März mit Tagesminimumtemperatur < 0 °C | T4 |
+|Starkregen | Anzahl der Tage mit Niederschlag ≥ 20 mm | N5 | 
+|Sehr heiße Tage | Anzahl der Tage mit Tagesmaximumtemperatur > 35 °C | T4 |
+|Tropische Nächte | Anzahl der Tage mit Tagesminimumtemperatur > 20 °C | T5 | 
+|Trockentage | Anzahl der Tage mit Niederschlag < 1 mm | N3 | 
+|Trockenperioden | Anzahl von Trockenperioden mit mindestens fünf aufeinanderfolgenden Tagen und Niederschlag < 1 mm | N4 |
