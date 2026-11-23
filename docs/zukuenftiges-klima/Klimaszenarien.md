@@ -1,6 +1,6 @@
 # <strong>Szenario</strong>
 
-![Bild](RCP85.jpg)
+![Bild](RCP85.png)
 
 <small>*Quelle: http://www.pik-potsdam.de/~mmalte/rcps/index.htm#Download</small>
 
